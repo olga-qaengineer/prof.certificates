@@ -1,5 +1,5 @@
 # prof.certificates
-Сертификаты:
+Сертификаты
 1.
 <img width="400" height="1392" alt="0d22f3418d6" src="https://github.com/user-attachments/assets/7f4aa549-d7e0-4a1c-8b28-36597b01c14c" />
 
